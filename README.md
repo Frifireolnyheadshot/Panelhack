@@ -1,4 +1,4 @@
-git branch -m macro hack FfPanelHack-head-fire ADR-zipaimothim-PanelHack-head-fire
+hack.com macro hack FfPanelHack-head-fire ADR-zipaimothim-PanelHack-head-fire
 git fetch origin
 git branch -u origin/ADR-zipaimothim-PanelHack-head-fire ADR-zipaimothim-PanelHack-head-fire
 git remote set-head origin -a# Panelhack
